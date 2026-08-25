@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "5e0b5fc678e798e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b120d9d484ab31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db11855852541d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI_학습_파이프라인_오디오_혀위치_추정.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI_학습_파이프라인_오디오_혀위치_추정"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc7ccb92b95d5bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46725fd77970132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39f409a98d64ca0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "791d4087adfc46b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "aff38e99dc2b73bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a45458f98d578e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "8379a9f9512a627a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1b6269ea7cf756",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI_학습_파이프라인_오디오_혀위치_추정.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "be36eda82885b187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI_학습_파이프라인_오디오_혀위치_추정.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "cb6479523376c9da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "cc5272b43c27e5d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "f8a8b3614793a3e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI_학습_파이프라인_오디오_혀위치_추정.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "c39f409a98d64ca0",
+  "lastOpenFiles": [
+    "영어_초음파_sEMG_결합실험_검토.md",
+    "한국어_AIHub_데이터셋_후보.md",
+    "AI_학습_파이프라인_오디오_혀위치_추정.md",
+    "thesis/07_무음발화_음성합성_기초연구.md",
+    "thesis/15_영어화자1명_근전도_데이터셋.md",
+    "thesis/14_tal_corpus_2021.md",
+    "thesis/14_영어_혀영상_데이터셋.md",
+    "thesis/13_얼굴근육_고해상도_지도.md",
+    "thesis/12_얼굴_표정근육_신호비교.md",
+    "thesis/11_1채널로도_가능했던_예외사례.md",
+    "thesis/10_저전력_웨어러블_목밴드.md",
+    "thesis/09_세션이_바뀌면_생기는_문제.md",
+    "thesis/08_초음파_지식증류_음성향상.md",
+    "thesis/06_근전도와_입모양_결합효과.md",
+    "thesis/05_전극_부착위치_사전검증방법.md",
+    "thesis/04_전극위치별_조음기관_연관성.md",
+    "thesis/03_턱밑vs귀아래_위치비교.md",
+    "thesis/02_전극_몇개가_적당한가.md",
+    "thesis/01_채널을_줄이면_생기는_문제.md",
+    "thesis/13_facial_muscle_highres.md",
+    "thesis/04_lee2025_articulatory_feature.md",
+    "thesis/03_freitas2015_nasal_vowels.md",
+    "thesis/02_zhu2021_channel_selection.md",
+    "thesis/01_hwang2026_fewer_channels.md",
+    "thesis/12_facial_muscle_comparative.md",
+    "thesis/11_satterlee2025_sentence_level.md",
+    "thesis"
+  ]
+}
