@@ -5,3 +5,5 @@ scikit-learn
 joblib
 torch
 sounddevice
+opencv-python
+mediapipe==0.10.14
